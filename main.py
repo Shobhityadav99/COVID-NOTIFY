@@ -4,7 +4,7 @@ def notifyMe(title,message):
     notification.notify(
         title=title,
         message =message,
-        app_icon="F:\PythonProjects\COVID NOTIFY\icon.png",
+        app_icon="F:\PythonProjects\COVID NOTIFY\icon.ico",
         timeout=10
     )
 
